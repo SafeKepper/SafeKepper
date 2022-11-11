@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhuvaneshwaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<a href="https://app.daily.dev/FrontEnd"><img src="https://api.daily.dev/devcards/40e8def68b794e5bb72743e1dfcf6e25.png?r=nx7" width="400" alt="Bhuvan's Dev Card"/></a>
+<a align='left' href="https://app.daily.dev/FrontEnd"><img src="https://api.daily.dev/devcards/40e8def68b794e5bb72743e1dfcf6e25.png?r=xet" width="400" alt="Bhuvan's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safekepper&label=Profile%20views&color=0e75b6&style=flat" alt="safekepper" /> </p>
 
 - 🌱 I’m currently learning **Nextjs**
