@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [bhuvan.works](bhuvan.works)
-
 - 📫 How to reach me **copycattho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
