@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 - website [https://safekepper.github.io/Bhuvi/']
-- 📫 How to reach me **copycattho@gmail.com**
+- 📫 How to reach me **bhuvaneshwaran04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
