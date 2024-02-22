@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safekepper&label=Profile%20views&color=0e75b6&style=flat" alt="safekepper" /> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **SQL**
 - website [www.bhuvan.works]
 - 📫 How to reach me **bhuvaneshwaran04@gmail.com**
 
