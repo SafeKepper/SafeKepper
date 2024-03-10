@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **SQL**
 - website [www.bhuvan.works]
-- 📫 How to reach me **bhuvaneshwaran04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
