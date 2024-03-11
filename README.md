@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Bhuvaneshwaran</h1>
-<h3 align="left">A passionate Coder</h3>
+<h3 align="left">I'm a aspiring Data Scientists</h3>
 
 - 🌱 I’m currently learning **SQL**
 - website [www.bhuvan.works]
