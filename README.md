@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bhuvaneshwaran</h1>
-<h3 align="left">I'm a aspiring Data Scientist</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning *Python*
 - website [www.bhuvan.works]
 
 <h3 align="left">Connect with me:</h3>
