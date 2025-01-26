@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bhuvaneshwaran</h1>
 
-- 🌱 I’m Upskilling to become data analyst
+- 🌱 I’m Upskilling to become Bioinformatician
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
